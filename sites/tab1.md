@@ -6,7 +6,7 @@ order: 2000
 # This is to Test to add a non expandeble Tab
 ### when it works fine if not not fine
 
-filePath: {{ content["/blog"].filePath }}
+filePath: {{ content["retype-test/blog"].filePath }}
 
 [!card]({{ content.blog.posts[0].filePath }})
 
