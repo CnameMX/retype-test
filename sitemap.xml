@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://docs.example.com/</loc>
+    <loc>https://cnamemx.github.io/retype-test/</loc>
     <lastmod>2026-05-18T13:15:16Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.example.com/blog/</loc>
+    <loc>https://cnamemx.github.io/retype-test/blog/</loc>
   </url>
   <url>
-    <loc>https://docs.example.com/blog/new-update-121/</loc>
+    <loc>https://cnamemx.github.io/retype-test/blog/new-update-121/</loc>
     <lastmod>2026-05-18T16:11:32Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.example.com/sites/tab1/</loc>
+    <loc>https://cnamemx.github.io/retype-test/sites/tab1/</loc>
     <lastmod>2026-05-18T13:35:38Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.example.com/sites/tab2/tab2_1/</loc>
+    <loc>https://cnamemx.github.io/retype-test/sites/tab2/tab2_1/</loc>
     <lastmod>2026-05-18T13:52:34Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.example.com/sites/tab2/tab2_2/</loc>
+    <loc>https://cnamemx.github.io/retype-test/sites/tab2/tab2_2/</loc>
     <lastmod>2026-05-18T13:41:47Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.example.com/tags/release/</loc>
+    <loc>https://cnamemx.github.io/retype-test/tags/release/</loc>
   </url>
   <url>
-    <loc>https://docs.example.com/tags/update/</loc>
+    <loc>https://cnamemx.github.io/retype-test/tags/update/</loc>
   </url>
   <url>
-    <loc>https://docs.example.com/tags/</loc>
+    <loc>https://cnamemx.github.io/retype-test/tags/</loc>
   </url>
   <url>
-    <loc>https://docs.example.com/categories/announcements/</loc>
+    <loc>https://cnamemx.github.io/retype-test/categories/announcements/</loc>
   </url>
   <url>
-    <loc>https://docs.example.com/categories/</loc>
+    <loc>https://cnamemx.github.io/retype-test/categories/</loc>
   </url>
 </urlset>

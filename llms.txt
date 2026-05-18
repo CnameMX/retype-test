@@ -2,18 +2,18 @@
 
 > this is for testing retype
 
-- [retype-test](https://docs.example.com/readme.md): retype-test
+- [retype-test](https://cnamemx.github.io/retype-test/readme.md): retype-test
 
 ## Sites
 
-- [This is to Test to add a non expandeble Tab](https://docs.example.com/sites/tab1.md)
+- [This is to Test to add a non expandeble Tab](https://cnamemx.github.io/retype-test/sites/tab1.md)
 
 ### Some Tabs
 
-- [First Tab](https://docs.example.com/sites/tab2/tab2_1.md): Some Text here
-- [Tab 2 2](https://docs.example.com/sites/tab2/tab2_2.md): some example code?
+- [First Tab](https://cnamemx.github.io/retype-test/sites/tab2/tab2_1.md): Some Text here
+- [Tab 2 2](https://cnamemx.github.io/retype-test/sites/tab2/tab2_2.md): some example code?
 
 ## Blog
 
-- [Blog](https://docs.example.com/blog/)
-- [New Update ver. 1.2](https://docs.example.com/blog/new-update-121.md)
+- [Blog](https://cnamemx.github.io/retype-test/blog/)
+- [New Update ver. 1.2](https://cnamemx.github.io/retype-test/blog/new-update-121.md)
