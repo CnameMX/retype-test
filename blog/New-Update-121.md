@@ -1,9 +1,12 @@
 ---
 date: 2026-05-18
+author: CnameMX
+category: [announcements]
+tags: [release, update]
 ---
 
-# Hello World
+# New Update ver. 1.2
 
-### -This is my first blog post built with Retype.
+### - This is my first blog post built with Retype.
 
-### -for Testing Purposes
+#### - for Testing Purposes
