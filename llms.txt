@@ -16,4 +16,4 @@
 ## Blog
 
 - [Blog](https://docs.example.com/blog/)
-- [Hello World](https://docs.example.com/blog/new-update-121.md)
+- [New Update ver. 1.2](https://docs.example.com/blog/new-update-121.md)
