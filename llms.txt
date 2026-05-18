@@ -6,7 +6,7 @@
 
 ## Sites
 
-- [Tab 1](https://docs.example.com/sites/tab1.md): #This is to Test to add a non expandeble Tab ###when it works fine if not not fine
+- [This is to Test to add a non expandeble Tab](https://docs.example.com/sites/tab1.md)
 
 ### Some Tabs
 
