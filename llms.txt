@@ -8,6 +8,6 @@
 
 - [Tab 1](https://docs.example.com/sites/tab1.md): #This is to Test to add a non expandeble Tab ###when it works fine if not not fine
 
-### Tab2
+### Some Tabs
 
 - [Tab 2.1](https://docs.example.com/sites/tab2/tab2_1.md): #First one
