@@ -12,3 +12,8 @@
 
 - [First Tab](https://docs.example.com/sites/tab2/tab2_1.md): Some Text here
 - [Tab 2 2](https://docs.example.com/sites/tab2/tab2_2.md): some example code?
+
+## Blog
+
+- [Blog](https://docs.example.com/blog/)
+- [Hello World](https://docs.example.com/blog/new-update-121.md)

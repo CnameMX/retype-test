@@ -5,12 +5,19 @@
     <lastmod>2026-05-18T13:15:16Z</lastmod>
   </url>
   <url>
+    <loc>https://docs.example.com/blog/</loc>
+  </url>
+  <url>
     <loc>https://docs.example.com/sites/tab1/</loc>
     <lastmod>2026-05-18T13:35:38Z</lastmod>
   </url>
   <url>
     <loc>https://docs.example.com/sites/tab2/tab2_1/</loc>
     <lastmod>2026-05-18T13:52:34Z</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.example.com/blog/new-update-121/</loc>
+    <lastmod>2026-05-18T16:00:39Z</lastmod>
   </url>
   <url>
     <loc>https://docs.example.com/sites/tab2/tab2_2/</loc>
