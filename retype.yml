@@ -1,7 +1,7 @@
 input: .
 output: .retype
 
-url: docs.example.com # Use your website address here
+url: https://cnamemx.github.io/retype-test # Use your website address here
 
 start:
   # Try the Retype Pro features
