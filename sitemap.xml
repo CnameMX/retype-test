@@ -8,4 +8,8 @@
     <loc>https://docs.example.com/sites/tab1/</loc>
     <lastmod>2026-05-18T13:23:36Z</lastmod>
   </url>
+  <url>
+    <loc>https://docs.example.com/sites/tab2/tab2index/</loc>
+    <lastmod>2026-05-18T13:25:10Z</lastmod>
+  </url>
 </urlset>
