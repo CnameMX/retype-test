@@ -7,3 +7,5 @@ filePath:
 [!card]({{ ERROR }})
 
 [!card](/blog/New-Update-121.md))
+
+[!card](/blog/*.md)
