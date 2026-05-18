@@ -11,3 +11,5 @@ filePath: {{ content["blog"].filePath }}
 [!card]({{ content.blog.posts[0].filePath }})
 
 [!card](/blog/New-Update-121.md))
+
+[!card](/blog/*.md)
