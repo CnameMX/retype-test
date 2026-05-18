@@ -11,4 +11,3 @@
 ### Tab2
 
 - [Tab 2.1](https://docs.example.com/sites/tab2/tab2_1.md): #First one
-- [Tab2index](https://docs.example.com/sites/tab2/tab2index.md): label: Some Tabs icon: cloud expanded: false order: 1500
