@@ -11,4 +11,4 @@
 ### Some Tabs
 
 - [First Tab](https://docs.example.com/sites/tab2/tab2_1.md): Some Text here
-- [Tab 2 2](https://docs.example.com/sites/tab2/tab2_2.md): ´some example code?´
+- [Tab 2 2](https://docs.example.com/sites/tab2/tab2_2.md): some example code?
