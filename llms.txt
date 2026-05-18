@@ -1,0 +1,5 @@
+﻿# retype-test
+
+> this is for testing retype
+
+- [retype-test](https://docs.example.com/readme.md): retype-test
