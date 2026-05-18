@@ -2,10 +2,10 @@
 
 ### when it works fine if not not fine
 
-filePath: 
+filePath: {{ ERROR }}
 
 [!card]({{ ERROR }})
 
 [!card](/blog/New-Update-121.md))
 
-[!card](/blog/*.md)
+[!card](/blog)
