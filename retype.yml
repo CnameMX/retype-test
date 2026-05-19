@@ -7,7 +7,7 @@ url: https://cnamemx.github.io/retype-test # Use your website address here
 
 start:
   # Try the Retype Pro features
-  pro: false
+  pro: true
 
 branding:
   title: Cname.MX
