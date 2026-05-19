@@ -16,9 +16,11 @@ im darkweb ein paar Skimasken und ggf. Pistolen pang pang
 nicht vergessen große Taschen für das Geld mitzunehmen
 >>>
 
->>>
+
 >>> 7. Wie ein Millionär Leben
 Du hast es geschaft jetzt bist du Reich
->>>
+
+>>> In die Firma Investieren
+so wie es halt sein solte
 
 `some example code?`
