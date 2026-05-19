@@ -1,9 +1,5 @@
 # First Tab
-
 Some Text here
 
-[!card vert]({{ ERROR }})
-[!card vert]({{ ERROR }})
-
-[!card vert]({{ ERROR }})
-[!card vert]({{ ERROR }})
+[!card title="Android Updates" layout="vertical"](/blog/2026-05-19-Update122.md)
+[!card title="IOS Updates" layout="vertical"](/blog/2026-05-19-Update156.md)
