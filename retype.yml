@@ -19,6 +19,8 @@ footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 
 theme:
-  image-rounded: "8px"
-
+  base:
+    image-rounded: 8px
+  dark:
+    image-rounded: 8px
 locale: de
