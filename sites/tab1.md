@@ -7,10 +7,11 @@ order: 2000
 # This is to Test to add a non expandeble Tab
 ### when it works fine if not not fine
 
-filePath: {{ content["retype-test/blog"].filePath }}
 
+#### Das ist der neuste Blogpost
 [!card]({{ content.blog.posts[0].filePath }})
 
-[!card](/blog/New-Update-121.md))
 
-[!card](/blog)
+#### Und das ist ein festgelegter Blogpost
+[!card](/blog/New-Update-121.md)
+

@@ -2,7 +2,7 @@
 date: 2026-05-18
 author: CnameMX
 category: [announcements]
-tags: [release, update]
+tags: [release, update, android]
 ---
 
 # New Update ver. 1.2.1
