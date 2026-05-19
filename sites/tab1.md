@@ -4,7 +4,7 @@
 
 filePath: {{ ERROR }}
 
-[!card]({{ ERROR }})
+[!card](/blog/2026-05-19-Update122.md)
 
 [!card](/blog/New-Update-121.md))
 

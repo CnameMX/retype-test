@@ -1,4 +1,4 @@
-# New Update ver. 1.2
+# New Update ver. 1.2.1
 
 ### - This is my first blog post built with Retype.
 
