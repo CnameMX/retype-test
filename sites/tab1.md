@@ -2,10 +2,8 @@
 
 ### when it works fine if not not fine
 
-filePath: {{ ERROR }}
-
+#### Das ist der neuste Blogpost
 [!card](/blog/2026-05-19-Update122.md)
 
-[!card](/blog/New-Update-121.md))
-
-[!card](/blog)
+#### Und das ist ein festgelegter Blogpost
+[!card](/blog/New-Update-121.md)
