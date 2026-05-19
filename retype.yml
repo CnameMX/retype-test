@@ -1,3 +1,5 @@
+poweredByRetype: false
+
 input: .
 output: .retype
 
@@ -15,15 +17,16 @@ links:
   - text: What's New
     icon: pulse
     title: Latest updates, announcements, and articels
-    items:
-      - text: Blog & News
-        icon: broadcast
-        title: Visit the NetBlog site
-        link: https://cnamemx.github.io/retype-test/blog/
-      - text: Other News
-        link: https://docs.hxa.io/
-        icon: sparkles-fill
-        title: Placeholder Hompage
+    
+  - text: Blog & News
+    icon: broadcast
+    title: Visit the NetBlog site
+    link: https://cnamemx.github.io/retype-test/blog/
+
+  - text: Other News
+    link: https://docs.hxa.io/
+    icon: sparkles-fill
+    title: Placeholder Hompage
       
 
 footer:
@@ -32,5 +35,8 @@ footer:
 theme:
   base:
     image-rounded: 0.75rem
+  dark:
+    image-rounded: 0.75rem
+
 
 locale: de
