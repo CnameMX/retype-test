@@ -1,5 +1,6 @@
 ---
-label: Tab 1
+icon: paste
+label: Seite 1
 order: 2000
 ---
 

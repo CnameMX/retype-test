@@ -1,5 +1,5 @@
 ---
-label: Tab 2.1
+label: Tab 1/2
 icon: paste
 order: 400
 ---
