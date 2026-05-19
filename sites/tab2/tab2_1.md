@@ -6,8 +6,5 @@ order: 400
 # First Tab
 Some Text here
 
-[!card vert]({{ content.blog.posts[0].tags["android"].filePath }})
-[!card vert]({{ content.blog.posts[0].tags["ios"].filePath }})
-
-[!card vert]({{ content.tags["android"].posts[0].filePath }})
-[!card vert]({{ content.tags["ios"].posts[0].filePath }})
+[!card title="Android Updates" layout="vertical"](/blog/2026-05-19-Update122.md)
+[!card title="IOS Updates" layout="vertical"](/blog/2026-05-19-Update156.md)
