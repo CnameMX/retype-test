@@ -16,6 +16,6 @@
 ## Blog
 
 - [Blog](https://cnamemx.github.io/retype-test/blog/)
-- [New Update ver. 1.2.2](https://cnamemx.github.io/retype-test/blog/2026-05-19-update156.md): nothing new here sorry
 - [New Update ver. 1.2.2](https://cnamemx.github.io/retype-test/blog/2026-05-19-update122.md): nothing new here sorry
+- [New Update ver. 1.5.6](https://cnamemx.github.io/retype-test/blog/2026-05-19-update156.md): just some boring big announcment
 - [New Update ver. 1.2.1](https://cnamemx.github.io/retype-test/blog/new-update-121.md)
