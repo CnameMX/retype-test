@@ -11,7 +11,7 @@
 ### Some Tabs
 
 - [First Tab](https://cnamemx.github.io/retype-test/sites/tab2/tab2_1.md): Some Text here
-- [Hopfully this will work](https://cnamemx.github.io/retype-test/sites/tab2/tab2_2.md): some example code?
+- [Der Weg zu Geld](https://cnamemx.github.io/retype-test/sites/tab2/tab2_2.md): am besten mit einem großen Tresor im hinter Zimmer
 
 ## Blog
 
