@@ -6,7 +6,7 @@ order: 100
 
 
 #### 1
-title: {{ content.categories["android"].title }}
-url: {{ content.categories["android"].url }}
-path: {{ content.categories["android"].path }}
-filePath: {{ content.categories["android"].filePath }}
+- title: {{ content.categories["android"].title }}
+- url: {{ content.categories.title["android"].url }}
+- path: {{ content.categories.title["android"].path }}
+- filePath: {{ content.categories.title["android"].filePath }}
