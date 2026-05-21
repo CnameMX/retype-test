@@ -7,7 +7,7 @@ order: 100
 
 #### 1
 
-||| Android
+||| android
 {{ android_gefunden = false }}
 {{~ for post in content.blog.posts ~}}
 {{~ if android_gefunden && (post.categories contains "android") ~}}
@@ -22,7 +22,7 @@ order: 100
 Derzeit sind im Blog-Archiv noch keine Einträge für die Plattform Android vorhanden.
 {{ end }}
 
-||| iOS
+||| ios
 {{ ios_gefunden = false }}
 {{~ for post in content.blog.posts ~}}
 {{~ if! ios_gefunden && (post.categories contains "ios") ~}}
