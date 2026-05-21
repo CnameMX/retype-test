@@ -5,8 +5,6 @@ order: 100
 ---
 
 
-#### 1
-
 ||| android
 {{ android_gefunden = false }}
 {{~ for post in content.blog.posts ~}}
