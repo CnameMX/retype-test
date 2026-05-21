@@ -26,3 +26,5 @@ order: 100
 {{ for cat in content.categories | array.contains "android" }}
 - [{{ cat.title }}](/categories/{{ cat.title }}) ({{ cat.pages | array.size }} pages)
 {{ end }}
+
+[!card]({{ (/categories/android/ | array.first).filePath }})
