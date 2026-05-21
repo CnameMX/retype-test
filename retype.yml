@@ -17,16 +17,16 @@ links:
   - text: What's New
     icon: pulse
     title: Latest updates, announcements, and articels
-    
-  - text: Blog & News
-    icon: broadcast
-    title: Visit the NetBlog site
-    link: https://cnamemx.github.io/retype-test/blog/
+    items:
+      - text: Blog & News
+        icon: broadcast
+        title: Visit the NetBlog site
+        link: https://cnamemx.github.io/retype-test/blog/
 
-  - text: Other News
-    link: https://docs.hxa.io/
-    icon: sparkles-fill
-    title: Placeholder Hompage
+      - text: Other News
+        link: https://docs.hxa.io/
+        icon: sparkles-fill
+        title: Placeholder Hompage
       
 
 footer:
