@@ -10,13 +10,10 @@ order: 2000
 
 [!card]({{ (content.categories[android] | array.first).filePath }})
 
-[!card]({{ content.categories[android].filePath }})
+[!card]({{ content.categories["android"].filePath }})
 
-[!card]({{ content.categories.title[android].filePath }})
+[!card]({{ content.categories.title["android"].filePath }})
 
-[!card]({{ (content.categories(android) | array.first).filePath }})
-
-[!card]({{ (content.categories.title(android) | array.first).filePath }})
 #### Das ist der neuste Blogpost
 [!card]({{ content.blog.posts[0].filePath }})
 
