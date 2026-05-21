@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="color-scheme" content="light dark">
     <meta name="turbo-root" content="/retype-test">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.5.3.832677667905">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.5.3.832678156905">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 4.5.3">
@@ -13,7 +13,7 @@
     <!-- Primary Meta Tags -->
     <title>This is to Test to add a non expandeble Tab</title>
     <meta name="title" content="This is to Test to add a non expandeble Tab">
-    <meta name="description" content="[!card]()">
+    <meta name="description" content="[!card]({{ ERROR }})">
 
     <!-- Canonical -->
     <link rel="canonical" href="https://cnamemx.github.io/retype-test/sites/tab1/">
@@ -23,7 +23,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://cnamemx.github.io/retype-test/sites/tab1/">
     <meta property="og:title" content="This is to Test to add a non expandeble Tab">
-    <meta property="og:description" content="[!card]()">
+    <meta property="og:description" content="[!card]({{ ERROR }})">
     <meta property="og:site_name" content="Cname.MX">
     <meta property="og:locale" content="de_DE">
 
@@ -31,7 +31,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://cnamemx.github.io/retype-test/sites/tab1/">
     <meta name="twitter:title" content="This is to Test to add a non expandeble Tab">
-    <meta name="twitter:description" content="[!card]()">
+    <meta name="twitter:description" content="[!card]({{ ERROR }})">
 
     <!-- RSS -->
     <link rel="alternate" type="application/rss+xml" href="https://cnamemx.github.io/retype-test/blog/feed.xml">
@@ -41,11 +41,11 @@
 
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="../../resources/css/retype.css?v=4.5.3.832677667905" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=4.5.3.832678156905" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=4.5.3.832677667905" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=4.5.3.832678156905" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=4.5.3" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.5.3.832677667905" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.5.3.832678156905" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -223,10 +223,12 @@
                 <!-- Page content  -->
 <h1 id="this-is-to-test-to-add-a-non-expandeble-tab">This is to Test to add a non expandeble Tab</h1>
 <h3 id="when-it-works-fine-if-not-not-fine">when it works fine if not not fine</h3>
-<p>[!card]()</p>
+<p>[!card]({{ ERROR }})</p>
 <p>[!card]()</p>
 <p>[!card]()</p>
 <p>[!card]({{ ERROR }})</p>
+<p>[&quot;&quot;, &quot;&quot;]
+{{ ERROR }}</p>
 <h4 id="das-ist-der-neuste-blogpost">Das ist der neuste Blogpost</h4>
 <p>
 <div class="card-container">
@@ -248,8 +250,13 @@
 <h4 id="und-das-ist-ein-festgelegter-blogpost">Und das ist ein festgelegter Blogpost</h4>
 <p>
 <div class="card-container">
-    <a href="/blog/android/new-update-121.md" class="group card no-link">
+    <a href="../../blog/new-update-121/" class="group card no-link">
         <div class="p-card-padding">
+            <div class="text-card-kicker font-card-kicker text-card-kicker-text card-kicker-case">announcements</div>
+            <div class="mt-2 text-card-title font-card-title leading-card-title text-card-title-text md:text-card-title-md">New Update ver. 1.2.1</div>
+            <div class="flex mt-card-footer-margin-top items-center">
+                <div class="text-card-footer text-card-footer-text"><span>2026-05-18</span></div>
+            </div>
         </div>
     </a>
 </div>
