@@ -1,24 +1,18 @@
 # This is to Test to add a non expandeble Tab
+
 ### when it works fine if not not fine
-[!card]({{ (content.categories.title | array.filter "android").filePath }})
+[!card]({{ ERROR }})
 
-[!card]({{ (content.categories | array.filter "android").filePath }})
+[!card]()
 
-[!card]({{ content.categories["android"].filePath }})
+[!card]()
 
-[!card]({{ content.categories.title["android"].filePath }})
+[!card]({{ ERROR }})
 
-{{["", "200", "","400"] | array.filter @string.empty}}
-{{end}}
-{{[content.categories] | array.filter "android"}}
-{{end}}
-{{[content.categories] | array.filter @string.contains "android"}}
-{{end}}
-{{[/categories/] | array.filter "android"}}
-{{end}}
+["", ""]
 
 #### Das ist der neuste Blogpost
-[!card]({{ content.blog.posts[0].filePath }})
+[!card](/blog/2026-05-21-Update300.md)
 
 #### Und das ist ein festgelegter Blogpost
 [!card](/blog/New-Update-121.md)
