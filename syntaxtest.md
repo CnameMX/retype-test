@@ -10,7 +10,7 @@ order: 100
 ||| Android
 {{ android_gefunden = false }}
 {{~ for post in content.blog.posts ~}}
-{{~ if!android_gefunden && (post.categories contains "android") ~}}
+{{~ if android_gefunden && (post.categories contains "android") ~}}
 [!card vert]({{ post.filePath }})
 {{ android_gefunden = true }}
 {{~ end ~}}
@@ -25,7 +25,7 @@ Derzeit sind im Blog-Archiv noch keine Einträge für die Plattform Android vorh
 ||| iOS
 {{ ios_gefunden = false }}
 {{~ for post in content.blog.posts ~}}
-{{~ if!ios_gefunden && (post.categories contains "ios") ~}}
+{{~ if! ios_gefunden && (post.categories contains "ios") ~}}
 [!card vert]({{ post.filePath }})
 {{ ios_gefunden = true }}
 {{~ end ~}}
