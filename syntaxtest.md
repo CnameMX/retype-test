@@ -11,16 +11,17 @@ order: 100
 {{~ if post.categories | array.contains "android" ~}}
     [!card vert]({{ post.filePath }})
 {{~ end ~}}
-
+{{~ end ~}}
 #### 2
 
 
-{{ for post in content.blog.posts.categories ~}}
+{{~ for post in content.blog.posts.categories ~}}
 {{~ post.title | array.contains "ios" ~}}
     [!card vert]({{ post.filePath }})
 {{~ end ~}}
-
+{{~ end ~}}
 #### 3
 
 {{ for post in content.blog.posts.categories ~}}
 - {{ post.title }}
+{{~ end ~}}
