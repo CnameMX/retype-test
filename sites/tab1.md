@@ -9,9 +9,13 @@
 [!card]({{ content.categories.title["android"].filePath }})
 
 {{["", "200", "","400"] | array.filter @string.empty}}
+{{end}}
 {{[content.categories] | array.filter "android"}}
+{{end}}
 {{[content.categories] | array.filter @string.contains "android"}}
+{{end}}
 {{[/categories/] | array.filter "android"}}
+{{end}}
 
 #### Das ist der neuste Blogpost
 [!card]({{ content.blog.posts[0].filePath }})
