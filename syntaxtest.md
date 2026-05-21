@@ -13,6 +13,7 @@ order: 100
 - [{{ post.title }}]({{ post.path }})
 {{ end }}
 
-{{ for cat in content.categories | array.contains "android"}}
+{{ for cat in content.categories.title | array.contains "android"}}
 - [{{ cat.title }}]({{ cat.path }})
 {{ end }}
+new
