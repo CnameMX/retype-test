@@ -27,4 +27,5 @@ order: 100
 - [{{ cat.title }}](/categories/{{ cat.title }}) ({{ cat.pages | array.size }} pages)
 {{ end }}
 
-[!card]({{ (/categories/android/ | array.first).filePath }})
+#### 2
+[!card]({{ (/categories/android | array.first).filePath }})
