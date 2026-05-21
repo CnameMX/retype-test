@@ -6,14 +6,9 @@ order: 2000
 
 # This is to Test to add a non expandeble Tab
 ### when it works fine if not not fine
-{{ for cat in content.categories["android"] ~}}
-[!card]({{ cat.posts[0].filePath }})
-{{ end }}
+[!card]({{ (content.blog.posts | content.categories["android"] | array.first).filePath }})
 
-{{ for cat in content.categories["android"] ~}}
-[!card]({{ cat.filePath }})
-{{ end }}
-
+[!card]({{ (content.blog.posts | content.categories.title["android"] | array.first).filePath }})
 #### Das ist der neuste Blogpost
 [!card]({{ content.blog.posts[0].filePath }})
 
