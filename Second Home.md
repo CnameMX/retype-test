@@ -12,5 +12,5 @@ icon: home
 
 #### :icon-log: Here are the Newest Updates you can Find?
 
-[!card title="RoomBooking Updates" layout="vertical"](/blog/2026-05-19-Update122.md)
-[!card title="Portal Updates" layout="vertical"](/blog/2026-05-19-Update156.md)
+[!card title="RoomBooking Updates" layout="vertical"](/blog/Android/2026-05-21-Update300.md)
+[!card title="Portal Updates" layout="vertical"](/blog/IOS-Updates/2026-05-19-Update156.md)
