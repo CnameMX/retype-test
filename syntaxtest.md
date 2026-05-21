@@ -16,4 +16,13 @@ order: 100
 {{ for cat in content.categories.title | array.contains "android"}}
 - [{{ cat.title }}]({{ cat.path }})
 {{ end }}
-new
+
+{{ for cat in content.categories ~}}
+- [{{ cat.title }}](/categories/{{ cat.title }}) ({{ cat.pages | array.size }} pages)
+{{ end }}
+
+#### next
+
+{{ for cat in content.categories | array.contains "android" }}
+- [{{ cat.title }}](/categories/{{ cat.title }}) ({{ cat.pages | array.size }} pages)
+{{ end }}
