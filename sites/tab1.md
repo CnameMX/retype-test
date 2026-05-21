@@ -6,9 +6,9 @@ order: 2000
 
 # This is to Test to add a non expandeble Tab
 ### when it works fine if not not fine
-[!card]({{ (content.categories.title[android] | array.first).filePath }})
+[!card]({{ (content.categories.title | array.filter @string.contains "android").filePath }})
 
-[!card]({{ (content.categories[android] | array.first).filePath }})
+[!card]({{ (content.categories | array.filter @string.contains "android").filePath }})
 
 [!card]({{ content.categories["android"].filePath }})
 
