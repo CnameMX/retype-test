@@ -1,2 +1,5 @@
 #### 1
-[!card](/categories/android/{{ ERROR }})
+title: android
+url: android
+path: 
+filePath: 
