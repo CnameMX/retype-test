@@ -40,10 +40,5 @@ theme:
 
 templating:
   loopLimit: 5000
-data:
-  dashboard_categories:
-    - android
-    - ios
-    - windows
-    - linux
+
 locale: de
