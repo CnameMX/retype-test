@@ -1,16 +1,23 @@
-HELLO WORLD
-0
-2026
+{{ string.upcase "hello world" }}
+{{ array.size page.tags }}
+{{ date.now.year }}
 
-- [New Update v3.0.0](/retype-test/blog/2026-05-21-update300/)
-- [New Update ver. 1.5.6](/retype-test/blog/2026-05-19-update156/)
-- [New Update ver. 1.2.2](/retype-test/blog/2026-05-19-update122/)
+{{ for post in content.blog.posts | array.limit 3 ~}}
+- [{{ post.title }}]({{ post.path }})
+{{ end }}
 
-{{ ERROR }}
+{{ for cat in content.categories.title | array.contains "android"}}
+- [{{ cat.title }}]({{ cat.path }})
+{{ end }}
 
-- [announcements](/categories/announcements) (4 pages)
-- [android](/categories/android) (1 pages)
+{{ for cat in content.categories ~}}
+- [{{ cat.title }}](/categories/{{ cat.title }}) ({{ cat.pages | array.size }} pages)
+{{ end }}
 
 #### next
 
-{{ ERROR }}
+{{ for cat in content.categories | array.contains "android" }}
+- [{{ cat.title }}](/categories/{{ cat.title }}) ({{ cat.pages | array.size }} pages)
+{{ end }}
+
+[!card]({{ (/categories/android/ | array.first).filePath }})

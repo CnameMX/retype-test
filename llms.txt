@@ -3,7 +3,7 @@
 > this is for testing retype
 
 - [retype-test](https://cnamemx.github.io/retype-test/readme.md): retype-test
-- [Syntax Testing](https://cnamemx.github.io/retype-test/syntaxtest.md): HELLO WORLD 0 2026
+- [Syntax Testing](https://cnamemx.github.io/retype-test/syntaxtest.md): {{ string.upcase "hello world" }} {{ array.size page.tags }} {{ date.now.year }}
 - [Welcome to the HXA.io Documentation Library](https://cnamemx.github.io/retype-test/second-home.md): HXA.io is your [MDRN.WORK] solutions provider.
 
 ## Sites
