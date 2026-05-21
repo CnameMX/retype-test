@@ -4,6 +4,10 @@
 [!card]()
 
 [!card]()
+
+[!card]()
+
+[!card]()
 #### Das ist der neuste Blogpost
 [!card](/blog/2026-05-21-Update300.md)
 
