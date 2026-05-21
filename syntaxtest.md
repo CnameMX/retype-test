@@ -21,4 +21,4 @@
 {{ end }}
 
 #### 2
-[!card]({{ (/categories/android | array.first).filePath }})
+[!card]({{ (/categories/android/{{ array.first }}).filePath }})
