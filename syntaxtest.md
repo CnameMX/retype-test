@@ -1,2 +1,2 @@
-#### 2
-[!card]({{ (/categories/android/{{ array.first }}).filePath }})
+#### 1
+[!card](/categories/android/{{ ERROR }})
