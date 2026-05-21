@@ -7,7 +7,7 @@
 
 ## Sites
 
-- [This is to Test to add a non expandeble Tab](https://cnamemx.github.io/retype-test/sites/tab1.md)
+- [This is to Test to add a non expandeble Tab](https://cnamemx.github.io/retype-test/sites/tab1.md): [!card]({{ ERROR }}) [!card]({{ ERROR }}) [!card]({{ ERROR }}) [!card]({{ ERROR }}) [!card]({{ ERROR }})
 
 ### Some Tabs
 
@@ -20,6 +20,7 @@
 
 ### Android
 
+- [2026 05 21 Update300](https://cnamemx.github.io/retype-test/blog/android/2026-05-21-update300.md): Screensaver disabled when Check-In/Check-Out is enabled.
 - [New Update ver. 1.2.2](https://cnamemx.github.io/retype-test/blog/android/2026-05-19-update122.md): nothing new here sorry
 - [New Update ver. 1.2.1](https://cnamemx.github.io/retype-test/blog/android/new-update-121.md)
 

@@ -8,6 +8,10 @@
     <loc>https://cnamemx.github.io/retype-test/blog/</loc>
   </url>
   <url>
+    <loc>https://cnamemx.github.io/retype-test/blog/android/2026-05-21-update300/</loc>
+    <lastmod>2026-05-21T11:34:16Z</lastmod>
+  </url>
+  <url>
     <loc>https://cnamemx.github.io/retype-test/blog/ios-updates/2026-05-19-update156/</loc>
     <lastmod>2026-05-21T10:51:44Z</lastmod>
   </url>
@@ -21,7 +25,7 @@
   </url>
   <url>
     <loc>https://cnamemx.github.io/retype-test/sites/tab1/</loc>
-    <lastmod>2026-05-19T13:49:54Z</lastmod>
+    <lastmod>2026-05-21T11:34:16Z</lastmod>
   </url>
   <url>
     <loc>https://cnamemx.github.io/retype-test/second-home/</loc>
@@ -29,14 +33,11 @@
   </url>
   <url>
     <loc>https://cnamemx.github.io/retype-test/sites/tab2/tab2_1/</loc>
-    <lastmod>2026-05-19T14:32:08Z</lastmod>
+    <lastmod>2026-05-21T11:34:16Z</lastmod>
   </url>
   <url>
     <loc>https://cnamemx.github.io/retype-test/sites/tab2/tab2_2/</loc>
     <lastmod>2026-05-19T16:33:29Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cnamemx.github.io/retype-test/tags/release/</loc>
   </url>
   <url>
     <loc>https://cnamemx.github.io/retype-test/tags/update/</loc>
@@ -48,10 +49,19 @@
     <loc>https://cnamemx.github.io/retype-test/categories/announcements/</loc>
   </url>
   <url>
+    <loc>https://cnamemx.github.io/retype-test/tags/release/</loc>
+  </url>
+  <url>
     <loc>https://cnamemx.github.io/retype-test/tags/android/</loc>
   </url>
   <url>
     <loc>https://cnamemx.github.io/retype-test/tags/ios/</loc>
+  </url>
+  <url>
+    <loc>https://cnamemx.github.io/retype-test/tags/windows/</loc>
+  </url>
+  <url>
+    <loc>https://cnamemx.github.io/retype-test/categories/android/</loc>
   </url>
   <url>
     <loc>https://cnamemx.github.io/retype-test/categories/</loc>
