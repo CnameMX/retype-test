@@ -7,4 +7,10 @@ HELLO WORLD
 - [New Update ver. 1.2.2](/retype-test/blog/2026-05-19-update122/)
 
 {{ ERROR }}
-new
+
+- [announcements](/categories/announcements) (4 pages)
+- [android](/categories/android) (1 pages)
+
+#### next
+
+{{ ERROR }}
