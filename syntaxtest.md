@@ -1,19 +1,11 @@
 #### 1
 
-{{ for post in content.blog.posts ~}}
-{{~ if post.categories | array.contains "android" ~}}
-    [!card vert]({{ post.filePath }})
-{{~ end ~}}
-{{~ end ~}}
-#### 2
+||| Android
 
-{{~ for post in content.blog.posts.categories ~}}
-{{~ post.title | array.contains "ios" ~}}
-    [!card vert]({{ post.filePath }})
-{{~ end ~}}
-{{~ end ~}}
-#### 3
+[!info] Keine Beiträge
+Derzeit sind im Blog-Archiv noch keine Einträge für die Plattform Android vorhanden.
 
-{{ for post in content.blog.posts.categories ~}}
-- {{ post.title }}
-{{~ end ~}}
+||| iOS
+
+[!info] Keine Beiträge
+Derzeit sind im Blog-Archiv noch keine Einträge für die Plattform iOS vorhanden.
