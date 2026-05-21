@@ -5,13 +5,10 @@
 
 [!card]()
 
-[!card]({{ ERROR }})
-
-[!card]({{ ERROR }})
-
 [!card]()
 
-[!card]()
+[!card]({{ ERROR }})
+
 #### Das ist der neuste Blogpost
 [!card](/blog/2026-05-21-Update300.md)
 
