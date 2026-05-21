@@ -15,7 +15,9 @@ order: 2000
 [!card]({{ content.categories.title["android"].filePath }})
 
 {{["", "200", "","400"] | array.filter @string.empty}}
-{{content.categories | array.filter "android"}}
+{{[content.categories] | array.filter "android"}}
+{{[content.categories] | array.filter @string.contains "android"}}
+{{[/categories/] | array.filter "android"}}
 
 
 #### Das ist der neuste Blogpost
