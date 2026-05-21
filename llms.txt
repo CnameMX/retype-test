@@ -3,10 +3,11 @@
 > this is for testing retype
 
 - [retype-test](https://cnamemx.github.io/retype-test/readme.md): retype-test
+- [Welcome to the HXA.io Documentation Library](https://cnamemx.github.io/retype-test/second-home.md): HXA.io is your [MDRN.WORK] solutions provider.
 
 ## Sites
 
-- [This is to Test to add a non expandeble Tab](https://cnamemx.github.io/retype-test/sites/tab1.md)
+- [This is to Test to add a non expandeble Tab](https://cnamemx.github.io/retype-test/sites/tab1.md): [!card](/blog/IOS Updates/2026-05-19-Update156.md)
 
 ### Some Tabs
 
@@ -16,6 +17,12 @@
 ## Blog
 
 - [Blog](https://cnamemx.github.io/retype-test/blog/)
-- [New Update ver. 1.2.2](https://cnamemx.github.io/retype-test/blog/2026-05-19-update122.md): nothing new here sorry
-- [New Update ver. 1.5.6](https://cnamemx.github.io/retype-test/blog/2026-05-19-update156.md): just some boring big announcment
-- [New Update ver. 1.2.1](https://cnamemx.github.io/retype-test/blog/new-update-121.md)
+
+### Android
+
+- [New Update ver. 1.2.2](https://cnamemx.github.io/retype-test/blog/android/2026-05-19-update122.md): nothing new here sorry
+- [New Update ver. 1.2.1](https://cnamemx.github.io/retype-test/blog/android/new-update-121.md)
+
+### IOS Updates
+
+- [New Update ver. 1.5.6](https://cnamemx.github.io/retype-test/blog/ios-updates/2026-05-19-update156.md): just some boring big announcment
