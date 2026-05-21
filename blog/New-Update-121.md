@@ -1,7 +1,7 @@
 ---
 date: 2026-05-18
 author: CnameMX
-category: [announcements]
+category: [announcements, ios]
 tags: [release, update, android]
 ---
 
