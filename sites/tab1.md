@@ -5,6 +5,10 @@
 
 [!card]()
 
+[!card]({{ ERROR }})
+
+[!card]({{ ERROR }})
+
 [!card]()
 
 [!card]()
