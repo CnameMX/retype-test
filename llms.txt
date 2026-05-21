@@ -3,7 +3,7 @@
 > this is for testing retype
 
 - [retype-test](https://cnamemx.github.io/retype-test/readme.md): retype-test
-- [Syntax Testing](https://cnamemx.github.io/retype-test/syntaxtest.md): title: android
+- [Syntax Testing](https://cnamemx.github.io/retype-test/syntaxtest.md): [!info] Keine Beiträge Derzeit sind im Blog-Archiv noch keine Einträge für die Plattform Android vorhanden.
 - [Welcome to the HXA.io Documentation Library](https://cnamemx.github.io/retype-test/second-home.md): HXA.io is your [MDRN.WORK] solutions provider.
 
 ## Sites
