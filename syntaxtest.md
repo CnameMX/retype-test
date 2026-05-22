@@ -3,6 +3,6 @@
 
 ##### 2
 
-["announcements", "android", "ios"]
+It exist
 
 #### 3
