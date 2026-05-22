@@ -17,4 +17,6 @@ It exist
 {{ end }}
 {{ end }}
 #### 3
-[!card]({{ content.categories["android"].pages | array.first }})
+{{ for andi in content.categories["android"].pages | array.last ~}}
+[!card]({{ andi.filePath }})
+{{ end }}
