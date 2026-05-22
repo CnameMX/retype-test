@@ -13,5 +13,5 @@ Order: 5000
 
 #### :icon-log: Here are the Newest Updates you can Find?
 
-[!card title="RoomBooking Updates" layout="vert"]({{ content.categories["android"].pages | array.map "filePath" | array.last }})
-[!card title="Portal Updates" layout="vertical"]({{ content.categories["ios"].pages | array.map "filePath" | array.last }})
+[!card kicker="Realeas Notes" title="RoomBooking Updates" layout="vert"]({{ content.categories["android"].pages | array.map "filePath" | array.last }})
+[!card kicker="Realeas Notes" title="Portal Updates" layout="vertical"]({{ content.categories["ios"].pages | array.map "filePath" | array.last }})
