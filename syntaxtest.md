@@ -11,7 +11,10 @@ order: 100
 
 ##### 2
 
-{{ content.categories | array.map "title" }}
-
+{{ for cat in content.categories | array.map "title" ~}}
+{{ if cat | string.contains "android" }}
+It exist
+{{ end }}
+{{ end }}
 #### 3
-{{ content.blog.posts | array.map "categories" | array.join ", " }}
+{{ content.blog | array.map "categories" | array.join ", " }}
