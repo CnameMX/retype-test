@@ -8,7 +8,8 @@ url: https://cnamemx.github.io/retype-test # Use your website address here
 start:
   # Try the Retype Pro features
   pro: true
-
+meta:
+  siteName: CnameMXultra
 branding:
   title: Cname.MX
   label: Testing
@@ -43,3 +44,5 @@ templating:
 
 locale: de
 
+search:
+  Placeholder: Auf der Suche Nach etwas?
