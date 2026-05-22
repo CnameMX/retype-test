@@ -14,4 +14,4 @@ order: 100
 {{ content.categories | array.map "title" }}
 
 #### 3
-{{ content.blog.posts | array.sort "title" | array.map "title" | array.join ", " }}
+{{ content.blog.posts | array.map "categories" | array.join ", " }}

@@ -7,13 +7,10 @@ order: 2000
 # This is to Test to add a non expandeble Tab
 ### when it works fine if not not fine
 
-[!card]({{ {{ content.categories.title | array.contains android }}.filePath }})
 
-[!card]({{ {{ content.categories | array.contains android }}.filePath }})
+[!card]({{ {{ content.categories | array.any @string.contains "android" }}.filePath }})
 
-[!card]({{ {{ content.categories | array.any @string.contains "android"}}.filePath }})
-
-[!card]({{ {{ content.categories.title | array.any @string.contains "android"}}.filePath }})
+[!card]({{ {{ content.categories.title | array.any @string.contains "android" }}.filePath }})
 
 
 
