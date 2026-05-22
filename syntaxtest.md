@@ -6,4 +6,3 @@
 ["announcements", "android", "ios"]
 
 #### 3
-New Update v3.0.0, New Update ver. 1.2.2, New Update ver. 1.5.6
