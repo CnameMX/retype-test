@@ -10,9 +10,11 @@ start:
   pro: true
 meta:
   siteName: CnameMXultra
+
 branding:
   title: Cname.MX
   label: Testing
+  logo: /
 
 links:
   - text: What's New
@@ -31,7 +33,10 @@ links:
       
 
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Copyright {{ year }} | All rights reserved | Made in Germany :de:"
+  link:
+    - text: About
+      icon: info
 
 theme:
   base:
@@ -45,4 +50,7 @@ templating:
 locale: de
 
 search:
-  Placeholder: Auf der Suche Nach etwas?
+  Placeholder: Auf der Suche?
+
+showSidebarFilter: false
+
