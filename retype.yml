@@ -36,12 +36,12 @@ footer:
   copyright: "&copy; Copyright {{ year }} | All rights reserved | Made in Germany :de:"
   links:
     - text: About
-      link: tab1.md
+      link: about.md
       icon: question
       title: Lern more about HXA.io
-    - text: License
-      link: syntaxtest.md
-      icon: shield-check
+    - text: Terms
+      link: terms.md
+      icon: law
       title: View the software licens agreement
 
 theme:
