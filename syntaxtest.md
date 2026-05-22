@@ -18,6 +18,6 @@ It exist
 {{ end }}
 #### 3
 
-{{ content.categories["android"].pages | array.map "url" | array.last }}
+[!card]({{ content.categories["android"].pages | array.map "url" | array.last }})
 
-for the whole tosting reasons
+for the whole tosting reasons i did it!
