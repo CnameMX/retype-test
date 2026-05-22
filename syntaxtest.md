@@ -1,9 +1,2 @@
-||| Android
-
-[!info] Keine Beiträge
-Derzeit sind im Blog-Archiv noch keine Einträge für die Plattform Android vorhanden.
-
-||| iOS
-
-[!info] Keine Beiträge
-Derzeit sind im Blog-Archiv noch keine Einträge für die Plattform iOS vorhanden.
+[!card vert](https://cnamemx.github.io/retype-test/tags/ios/)
+[!card vert](https://cnamemx.github.io/retype-test/tags/android/)
