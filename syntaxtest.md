@@ -18,6 +18,6 @@ It exist
 {{ end }}
 #### 3
 
-{{ content.categories["android"].pages | array.map "url" }}
+{{ content.categories["android"].pages | array.map "url" | array.last }}
 
-for the tosting reasons
+for the whole tosting reasons
