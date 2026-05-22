@@ -17,4 +17,4 @@ It exist
 {{ end }}
 {{ end }}
 #### 3
-{{ content.blog | array.map "categories" | array.join ", " }}
+{{ content.blog.tags | array.map "title" | array.join ", " }}
