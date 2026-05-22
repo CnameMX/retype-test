@@ -17,4 +17,4 @@ It exist
 {{ end }}
 {{ end }}
 #### 3
-[!card]({{ content["categories/android"] | array.first }})
+[!card]({{ content.categories["android"].pages | array.first }})
