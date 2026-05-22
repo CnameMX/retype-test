@@ -5,31 +5,47 @@ order: 100
 ---
 
 
-||| android
-{{ android_gefunden = false }}
-{{~ for post in content.blog.posts ~}}
-{{~ if android_gefunden && (post.categories contains "android") ~}}
-[!card vert]({{ post.filePath }})
-{{ android_gefunden = true }}
-{{~ end ~}}
-{{~ end ~}}
+||| Android
 
-{{ if!android_gefunden }}
+{{
+android_post = null
+for post in content.blog.posts
+if!android_post
+if post.categories
+if post.categories contains "android"
+android_post = post
+end
+end
+end
+end
+}}
+
+{{ if android_post }}
+[!card vert]({{ android_post.filePath }})
+{{ else }}
 
 [!info] Keine Beiträge
 Derzeit sind im Blog-Archiv noch keine Einträge für die Plattform Android vorhanden.
 {{ end }}
 
-||| ios
-{{ ios_gefunden = false }}
-{{~ for post in content.blog.posts ~}}
-{{~ if! ios_gefunden && (post.categories contains "ios") ~}}
-[!card vert]({{ post.filePath }})
-{{ ios_gefunden = true }}
-{{~ end ~}}
-{{~ end ~}}
+||| iOS
 
-{{ if!ios_gefunden }}
+{{
+ios_post = null
+for post in content.blog.posts
+if!ios_post
+if post.categories
+if post.categories contains "ios"
+ios_post = post
+end
+end
+end
+end
+}}
+
+{{ if ios_post }}
+[!card vert]({{ ios_post.filePath }})
+{{ else }}
 
 [!info] Keine Beiträge
 Derzeit sind im Blog-Archiv noch keine Einträge für die Plattform iOS vorhanden.
