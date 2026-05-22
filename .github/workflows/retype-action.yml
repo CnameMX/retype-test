@@ -15,9 +15,12 @@ jobs:
       - uses: actions/checkout@v6
         with:
           fetch-depth: 0
+          
 
       - uses: retypeapp/action-build@latest
-
+        env:
+          RETYPE_KEY: ${{ secrets.RETYPE_KEY }}
+          
       - uses: retypeapp/action-github-pages@latest
         with:
           update-branch: true
