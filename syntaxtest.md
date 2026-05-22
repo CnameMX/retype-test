@@ -17,4 +17,4 @@ It exist
 {{ end }}
 {{ end }}
 #### 3
-{{ content.blog.tags | array.map "title" | array.join ", " }}
+{{ content["categories/android"] | array.first }}
