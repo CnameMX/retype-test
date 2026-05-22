@@ -6,16 +6,5 @@
 It exist
 
 #### 3
-[!card]()
-[!card]()
-[!card]()
-[!card]()
-[!card]()
-[!card]()
-[!card]()
-[!card]()
-[!card]()
-[!card]()
-[!card]()
-[!card]()
-[!card]()
+
+[!card]([])
