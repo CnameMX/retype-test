@@ -7,6 +7,6 @@ It exist
 
 #### 3
 
-[!card](https://cnamemx.github.io/retype-test/blog/2026-05-21-update300/)
+[!card](/blog/2026-05-21-Update300.md)
 
-for the whole tosting reasons i did it!
+for the whole tosting reasons i did it?
