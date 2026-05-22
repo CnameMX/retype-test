@@ -18,6 +18,6 @@ It exist
 {{ end }}
 #### 3
 
-{{ content.categories["android"].pages | array.last | array.map "filePath" }}
+{{ content.categories["android"].pages | array.last }}
 
-for the test
+for the testing
