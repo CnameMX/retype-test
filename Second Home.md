@@ -1,6 +1,7 @@
 ---
 label: Welcome HXA.io
 icon: home
+Order: 5000
 ---
 
 # Welcome to the HXA.io Documentation Library
@@ -12,5 +13,5 @@ icon: home
 
 #### :icon-log: Here are the Newest Updates you can Find?
 
-[!card title="RoomBooking Updates" layout="vertical"](/blog/2026-05-21-Update300.md)
-[!card title="Portal Updates" layout="vertical"](/blog/2026-05-19-Update156.md)
+[!card title="RoomBooking Updates" layout="vert"]({{ content.categories["android"].pages | array.map "filePath" | array.last }})
+[!card title="Portal Updates" layout="vertical"]({{ content.categories["ios"].pages | array.map "filePath" | array.last }})
