@@ -3,12 +3,12 @@
 > this is for testing retype
 
 - [retype-test](https://cnamemx.github.io/retype-test/readme.md): retype-test
-- [Syntax Testing](https://cnamemx.github.io/retype-test/syntaxtest.md)
+- [Syntax Testing](https://cnamemx.github.io/retype-test/syntaxtest.md): ["announcements", "android", "ios"]
 - [Welcome to the HXA.io Documentation Library](https://cnamemx.github.io/retype-test/second-home.md): HXA.io is your [MDRN.WORK] solutions provider.
 
 ## Sites
 
-- [This is to Test to add a non expandeble Tab](https://cnamemx.github.io/retype-test/sites/tab1.md): [!card]({{ ERROR }})
+- [This is to Test to add a non expandeble Tab](https://cnamemx.github.io/retype-test/sites/tab1.md): [!card]({{ {{ content.categories.title | array.contains android }}.filePath }})
 
 ### Some Tabs
 
