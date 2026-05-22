@@ -18,5 +18,5 @@ It exist
 {{ end }}
 #### 3
 
-[!card]({{ content.categories["android"].pages | array.last | array.map "url" }})
+[!card]({{ content.categories["android"].pages | array.last }})
 
