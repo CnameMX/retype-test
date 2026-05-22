@@ -42,3 +42,6 @@ templating:
   loopLimit: 5000
 
 locale: de
+
+blog:
+  layout: page
