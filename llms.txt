@@ -1,9 +1,9 @@
 ﻿# CnameMXultra
 
-> this is for testing retype
+> HXA.io is your [MDRN.WORK] solutions provider.
 
-- [retype-test](https://cnamemx.github.io/retype-test/readme.md): retype-test
-- [Welcome to the HXA.io Documentation Library](https://cnamemx.github.io/retype-test/second-home.md): HXA.io is your [MDRN.WORK] solutions provider.
+- [Welcome to the HXA.io Documentation Library](https://cnamemx.github.io/retype-test/readme.md): Welcome to the HXA.io Documentation Library
+- [retype-test](https://cnamemx.github.io/retype-test/testpage.md): this is for testing retype
 - [Syntax Testing](https://cnamemx.github.io/retype-test/syntaxtest.md): It exist
 
 ## Sites
@@ -15,9 +15,9 @@
 - [First Tab](https://cnamemx.github.io/retype-test/sites/tab2/tab2_1.md): Some Text here
 - [Der Weg zu Geld](https://cnamemx.github.io/retype-test/sites/tab2/tab2_2.md): am besten mit einem großen Tresor im hinter Zimmer
 
-## Blog
+## Blog & News
 
-- [Blog](https://cnamemx.github.io/retype-test/blog/)
+- [Blog & News](https://cnamemx.github.io/retype-test/blog/index.md)
 - [New Update v3.0.0](https://cnamemx.github.io/retype-test/blog/2026-05-21-update300.md): Screensaver disabled when Check-In/Check-Out is enabled.
 - [New Update ver. 1.2.2](https://cnamemx.github.io/retype-test/blog/2026-05-19-update122.md): nothing new here sorry
 - [New Update ver. 1.5.6](https://cnamemx.github.io/retype-test/blog/2026-05-19-update156.md): just some boring big announcment
