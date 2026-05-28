@@ -1,40 +1,16 @@
 ---
-label: Welcome
+label: Welcome HXA.io
 icon: home
 ---
 
-# retype-test
-this is for testing retype
-# Welcome!
+# Welcome to the HXA.io Documentation Library
 
-This is a paragraph.
+[HXA.io](https://hxa.io) is your **[MDRN.WORK]** solutions provider.
 
-Both [internal](README.md) and [external](https://example.com) links work.
 
-![Your logo](logo.png)
+![](/images/HXA_EN_Hello_860x538_tr.png)
 
-Another paragraph with **bold**, _italic_, ~~strikethrough~~, and `code` samples.
+#### :icon-log: Here are the Newest Updates you can Find?
 
----
-
-## Lists
-
-- First item
-- Second item
-- Third item
-
-1. First item
-2. Second item
-3. Third item
-
-> "Cool! This is a quotation."
-
-!!!
-Need to draw attention to something? Use an Callout.
-!!!
-
-+++ Tab 1
-This is Tab 1
-+++ Tab 2
-This is another Tab
-+++
+[!card kicker="Realeas Notes" title="RoomBooking Updates" layout="vert"]({{ content.categories["android"].pages | array.map "filePath" | array.last }})
+[!card kicker="Realeas Notes" title="Portal Updates" layout="vertical"]({{ content.categories["ios"].pages | array.map "filePath" | array.last }})

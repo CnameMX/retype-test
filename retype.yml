@@ -26,10 +26,10 @@ links:
         title: Visit the NetBlog site
         link: https://cnamemx.github.io/retype-test/blog/
 
-      - text: Other News
+      - text: Changelog
         link: https://docs.hxa.io/
         icon: sparkles-fill
-        title: Placeholder Hompage
+        title: See what changed in detail
       
 
 footer:
@@ -54,6 +54,9 @@ templating:
   loopLimit: 5000
 
 locale: de
+
+nav:
+  mode: stack
 
 search:
   Placeholder: Auf der Suche?
